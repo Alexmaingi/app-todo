@@ -2,9 +2,9 @@
   "todos": [
     {
       "id": "gh47kj",
-      "completed": true,
+      "completed": false,
       "category": "home-chores",
-      "description": "Take out trash and visit made around the corner",
+      "description": "Wash the dishes and clean up the house",
       "tags": [
         "important",
         "urgent"
@@ -12,7 +12,7 @@
     },
     {
       "id": "gh6793",
-      "completed": false,
+      "completed": true,
       "category": "work-stuff",
       "description": "Do the React application and the json-server part",
       "tags": [
@@ -32,7 +32,7 @@
       "id": "ijh53o",
       "completed": true,
       "category": "home-chores",
-      "description": "Take out trash and visit made around the corner",
+      "description": "Visit made around the corner",
       "tags": [
         "important",
         "urgent"
@@ -42,7 +42,7 @@
       "id": "jtri34",
       "completed": false,
       "category": "home-chores",
-      "description": "Wash Utensils using strepsils",
+      "description": "Taking out the trash",
       "tags": [
         "important"
       ]
